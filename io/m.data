@@ -1,0 +1,1 @@
+list(list(0, 1, 2, 3, 4);, list(nil, nil, 100, nil, nil);, list(nil, nil, nil, nil, "shit"););
